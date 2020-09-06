@@ -1,2 +1,2 @@
 # UI-UX-CaseStudy-Health-Apps
-[![Watch the video] https://www.youtube.com/watch?v=K7LIsnqxmn0&t=103s
+Video Presentation: https://www.youtube.com/watch?v=K7LIsnqxmn0&t=103s
